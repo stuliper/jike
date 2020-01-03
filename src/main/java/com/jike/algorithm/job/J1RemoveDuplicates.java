@@ -6,7 +6,7 @@ import org.apache.commons.lang3.ArrayUtils;
 /***************************************
  * author:      stuliper
  * createDate:  2020/1/3 16:52
- * description: 数组去重 在原数组数组上操作，不适用额外的空间（数组）
+ * description: 数组去重 在原数组数组上操作，不使用额外的空间（数组）
  ****************************************/
 public class J1RemoveDuplicates {
 
