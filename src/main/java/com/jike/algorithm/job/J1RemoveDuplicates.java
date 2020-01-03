@@ -33,7 +33,6 @@ public class J1RemoveDuplicates {
             for(int j=i;j < k-1;){
                 int  first = arr[j+1];
                 int  last = arr[k-1];
-
                 if(curr == last){
                     k--;
                     continue;
